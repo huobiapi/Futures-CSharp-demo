@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\huobi\\git\\client\\huobi\\REST-CSharp-demo\\Huobi.Rest.CSharp.Demo\\Huobi.Rest.CSharp.Demo.csproj",
+  "TargetFramework": "v4.5.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

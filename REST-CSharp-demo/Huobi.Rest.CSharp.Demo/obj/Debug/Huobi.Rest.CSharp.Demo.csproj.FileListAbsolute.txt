@@ -1,0 +1,12 @@
+C:\huobi\git\client\huobi\REST-CSharp-demo\Huobi.Rest.CSharp.Demo\bin\Debug\Huobi.Rest.CSharp.Demo.dll
+C:\huobi\git\client\huobi\REST-CSharp-demo\Huobi.Rest.CSharp.Demo\bin\Debug\Huobi.Rest.CSharp.Demo.pdb
+C:\huobi\git\client\huobi\REST-CSharp-demo\Huobi.Rest.CSharp.Demo\bin\Debug\Newtonsoft.Json.dll
+C:\huobi\git\client\huobi\REST-CSharp-demo\Huobi.Rest.CSharp.Demo\bin\Debug\RestSharp.dll
+C:\huobi\git\client\huobi\REST-CSharp-demo\Huobi.Rest.CSharp.Demo\bin\Debug\System.ValueTuple.dll
+C:\huobi\git\client\huobi\REST-CSharp-demo\Huobi.Rest.CSharp.Demo\bin\Debug\Newtonsoft.Json.xml
+C:\huobi\git\client\huobi\REST-CSharp-demo\Huobi.Rest.CSharp.Demo\bin\Debug\System.ValueTuple.xml
+C:\huobi\git\client\huobi\REST-CSharp-demo\Huobi.Rest.CSharp.Demo\obj\Debug\Huobi.Rest.CSharp.Demo.csprojAssemblyReference.cache
+C:\huobi\git\client\huobi\REST-CSharp-demo\Huobi.Rest.CSharp.Demo\obj\Debug\Huobi.Rest.CSharp.Demo.csproj.CoreCompileInputs.cache
+C:\huobi\git\client\huobi\REST-CSharp-demo\Huobi.Rest.CSharp.Demo\obj\Debug\Huobi.Rest.CSharp.Demo.csproj.CopyComplete
+C:\huobi\git\client\huobi\REST-CSharp-demo\Huobi.Rest.CSharp.Demo\obj\Debug\Huobi.Rest.CSharp.Demo.dll
+C:\huobi\git\client\huobi\REST-CSharp-demo\Huobi.Rest.CSharp.Demo\obj\Debug\Huobi.Rest.CSharp.Demo.pdb
