@@ -1,4 +1,4 @@
-﻿using Huobi.Rest.CSharp.Demo.Model;
+using Huobi.Rest.CSharp.Demo.Model;
 using RestSharp;
 using System;
 using System.Collections.Generic;
@@ -177,7 +177,7 @@ namespace Huobi.Rest.CSharp.Demo
             request.AddJsonBody(postParameters);
             foreach (var item in request.Parameters)
             {
-                item.Value = item.Value.ToString().Replace("_", "-");
+                item.Value = item.Value.ToString();
             }
             var result = client.Execute<HBResponse<T>>(request);
             return result.Data;
