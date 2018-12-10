@@ -1,4 +1,4 @@
-﻿using Newtonsoft.Json;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,11 +10,14 @@ namespace Huobi.Rest.CSharp.Demo.Model
     public class OrderPlaceRequest
     {
        /// [JsonProperty("price")]
-        public Int32 price { get; set; }
-        public Int32 volume { get; set; }
+        public string price { get; set; }
+        public string volume { get; set; }
         public string direction { get; set; }
         public string offset { get; set; }
-        public int lever_rate { get; set; }
+        public string lever_rate { get; set; }
         public string order_price_type { get; set; }
+        public string contract_code { get; set; }
+        public string symbol { get; set; }
+        public string contract_type { get; set; }
     }
 }
